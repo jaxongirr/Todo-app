@@ -1,2 +1,2 @@
 # Todo-app
-### Simple Todod application using Spring Boot
+### Simple Todo application using Spring Boot
